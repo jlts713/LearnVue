@@ -1,4 +1,4 @@
-# app3_staarbase_router
+# app3_starbase_router
 
 > A Vue.js project
 
